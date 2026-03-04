@@ -74,7 +74,7 @@ The Power BI dashboard includes the following visualizations:
 * Improve pricing strategy for low-profit products.
 * Invest more in top-selling product categories.
 * Optimize inventory for high-demand products.
-* ![Uploading Screenshot 2026-03-04 154512.png…]()
+
 
 
 ---
