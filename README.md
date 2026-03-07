@@ -55,6 +55,8 @@ The Power BI dashboard includes the following visualizations:
 * Top 10 Products by Sales
 * Regional Sales Distribution (Pie Chart)
 * Key Performance Indicators (KPI Cards)
+  <img width="928" height="516" alt="image" src="https://github.com/user-attachments/assets/7c9de027-1fb6-48fe-9ba0-6f337f00c66c" />
+
 
 
 ---
